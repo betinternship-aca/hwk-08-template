@@ -1,0 +1,12 @@
+{
+    "env": {
+        "node": true,
+        "es6": true
+    },
+    "rules": {
+        "guard-for-in": "off",
+        "no-console": "off",
+        "no-unused-expressions": "off",
+        "strict": ["error", "global"]
+    }
+}
